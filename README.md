@@ -51,7 +51,7 @@ spam-classifier/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/spam-email-classifier.git
+git clone https://github.com/RitikaRanjan2666/spam-email-classifier.git
 cd spam-email-classifier
 ```
 
@@ -90,4 +90,4 @@ python spam_classifier.py
 ## 📬 Connect
 
 - LinkedIn: [linkedin.com/in/ritikaranjan-540076338](https://www.linkedin.com/in/ritikaranjan-540076338)
-- GitHub: github.com/YOUR_USERNAME
+- GitHub: github.com/RitikaRanjan2666
